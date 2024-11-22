@@ -4,5 +4,5 @@ A repository showcasing a portfolio of data science projects completed during co
 
 ## Contents
 
-  - [Predicting Boston Housing Prices](#predicting-boston-housing-prices): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
+  - [ Bank Personal Loan Campaign](#predicting-boston-housing-prices): The model built can be used to predict if a customer will purchase personal loan or not and can correctly identify 99% of the loan purchase.
 
