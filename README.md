@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Personal Projects
 
 A repository showcasing a portfolio of data science projects completed during coursework, self-learning, and as a personal hobby.
 
